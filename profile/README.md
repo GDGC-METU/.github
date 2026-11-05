@@ -4,14 +4,14 @@ Welcome to the official **Production Team** organization of **GDG on Campus METU
 
 ---
 
-## 🎯 Our Goal
+## Our Goal
 > **"Making real products and innovation"**
 
 Our mission is to foster innovation, transition from theory to execution, and construct impactful systems.
 
 ---
 
-## 🛠️ Projects & Teams
+## Projects & Teams
 
 Our teams are organized across hardware, software, perception, and interactive development:
 
