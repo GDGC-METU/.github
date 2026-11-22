@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/waste_sorter/__init__.py
+src/waste_sorter/app.py
+src/waste_sorter/classifier.py
+src/waste_sorter/serial_protocol.py
+src/waste_sorter/train.py
+src/waste_sorter.egg-info/PKG-INFO
+src/waste_sorter.egg-info/SOURCES.txt
+src/waste_sorter.egg-info/dependency_links.txt
+src/waste_sorter.egg-info/requires.txt
+src/waste_sorter.egg-info/top_level.txt
+tests/test_classifier.py
+tests/test_serial_protocol.py
